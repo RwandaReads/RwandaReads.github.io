@@ -1,25 +1,36 @@
 body {
-  max-width: 50ch;
-  line-height: 1.4;
-  margin: auto;
+    max-width: 50ch;
+    line-height: 1.4;
+    margin: auto;
 }
-
-header { text-align: center; }
-
-nav ul, ul.stories {
-  list-style-type: none;
-  padding: 0;
+header {
+    text-align: center;
 }
-
+nav ul,
+ul.stories {
+    list-style-type: none;
+    padding: 0;
+}
 nav ul li a {
-  display: block; /* This makes the whole region (not just the text) clickable. */
-  padding: 0.25em;
+    display: block;
+    /* This makes the whole region (not just the text) clickable. */
+    
+    padding: 0.25em;
 }
+nav ul li:nth-child(odd) {
+    background: #EEE;
+}
+nav ul li:nth-child(even) {
+    background: #DDD;
+}
+a {
+    text-decoration: none;
+}
+/* Kinyarwanda words are italicized. */
 
-nav ul li:nth-child(odd)  { background: #EEE; }
-nav ul li:nth-child(even) { background: #DDD; }
-
-a { text-decoration: none; }
-
-/* In English (Kinyarwanda) documents, Kinyarwanda (English) words are italicized. */
-:lang(rw) { font-style: italic; }
+:lang(rw) {
+    font-style: italic;
+}
+.needs-translation {
+    color: red;
+}
