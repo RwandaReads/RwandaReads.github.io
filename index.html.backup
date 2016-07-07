@@ -1,27 +1,20 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title> Rwanda Reads (Abanyarwanda barasoma) </title>
-    <link type="text/css" href="style.css" rel="stylesheet" media="all" />
-  </head>
-  <body>
-    <header>
-      <h1> Rwanda Reads (<span lang="rw">Abanyarwanda barasoma</span>) </h1>
-      <h2> A reader today, a leader tomorrow. (<span lang="rw">Umusomyi w’iki gihe ni we muyobozi w’ejo
-
-hazaza.</span>) </h2>
-      <nav>
-        <ul>
-          <li> <a href="#contact">Contact Us (<span lang="rw">Tuvugishe</span>)</a> </li>
-          <li> <a href="#about-us">About Us (<span lang="rw">Abo turibo</span>)</a> </li>
-          <li> <a href="proverbs.html">Proverbs (<span lang="rw">Imigani</span>)</a> </li>
-          <li> <a href="stories.html">Stories (<span lang="rw">Inkuru</span>)</a> </li>
-          <li> <a href="resources.html">English Resources (<span lang="rw">Ibyo wasoma mu Cyongereza</span>)</a> </li>
-        </ul>
-      </nav>
-    </header>
-    <section id="contact">
+---
+layout: default
+name: Rwanda Reads (Abanyarwanda barasoma)
+subname: A reader today, a leader tomorrow. (Umusomyi w’iki gihe ni we muyobozi w’ejo hazaza.)
+navigation:
+- name: Contact Us (Tuvugishe)
+  link: "#link"
+- name: About us (Abo turibo)
+  link: "#about-us"
+- name: Proverbs (Imigani)
+  link: "proverbs.html"
+- name: Stories (Inkuru)
+  link: "stories.html"
+- name: English Resources (Ibyo wasoma mu Cyongereza)
+  link: "resources.html"
+---
+<section id="contact">
       <header>
         <h2> Contact Us (<span lang="rw">Tuvugishe</span>) </h2>
       </header>
@@ -53,5 +46,3 @@ hazaza.</span>) </h2>
         Buri nkuru iherekejwe n'imyitozo yoroheje (igaragaza ibisubizo) ikaba igamije gusuzuma niba wibuka ibyo wasomye mu rwego rwo kugufasha kwiga vuba.
       </p>
     </section>
-  </body>
-</html>
