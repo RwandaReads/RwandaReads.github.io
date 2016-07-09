@@ -255,6 +255,45 @@ Umwana uzi ubwenge yumvira mu rusaku.
 Umusonga wundi ntukubuza gusinzira.
 : Another person’s pain, does not stop you from sleeping.
 
+Umuryango ujya gucika wota izuba riva.
+: A family susceptible to disappearance will seek fire warmth in sunshine.
+
+Umuruho si ibara.
+: Problems are not personal.
+
+Umukobwa w’umupfu arahira imfizi ya se.
+: A foolish girl swears by her father’s bull.
+
+Umugisha ntubyiganirwa.
+: Nobody fights for luck.
+
+Umugabo mbwa aseka imbohe.
+: A stupid man laughs at a prisoner.
+
+Umugabo aca urubanza, ntaca urubazi.
+: A judge decides on the presented case, but not on questions.
+
+Umugore si ukugira amabere, n’ihene igira abiri.
+: There is more to a woman than two breasts, even a goat has two.
+
+Umanika agati wicaye ukakamanura uhagaze.
+: Sometimes it is easy to do, difficult to undo.
+
+Umubaji w’imitima ntiyayiringanije.
+: The maker of minds did not make them uniform.
+
+Ukubeshya ubutwari muratabarana. 
+: He who alleges heroism, take him to war.
+
+Ukuri guca mu ziko ntigushye.
+: Truth goes through fire without being burnt.
+
+Ukubita imbwa, aba ashaka shebuja.
+: He who beats a dog, is inviting the owner to a duel.
+
+Ujya gutera ubwuzu arabwibanza.
+: Charity begins at home.
+
 
 
 
