@@ -198,5 +198,63 @@ Uwanze kuvugwa yaheze munda ya nyina.
 Uturiye isoko siwe urivoma.
 The digger of the dwell is not the one who draws the water from it.
 
+Uturiye isoko siwe urivoma.
+: The digger of the dwell is not the one who draws the water from it.	
+
+Uwakomye urusyo akoma n’ingasire.
+: The one who has prepared the mill must have the tool to make it work. 
+
+Utazi ubwenge ashima ubwe.
+: If you don’t know who is wise, you may think you are.
+
+Utabusya abwita ubumera.
+: If you are not grinding the millet, you think it is soft.
+
+Utagera ibwami abeshywa byinshi.
+: He who does not go to the royal courts, is told many lies.
+
+Ushaka inka aryama nkazo.
+: If you want cows, you will sleep like them.
+
+Urwishigishiye araruma.
+: You should taste the drink you have prepared.
+
+Usanze nyina ashaje, agira ngo se yashatse nabi.
+: If you were born when your mother was old, you will blame your father for marrying an old woman. Your mother was also once beautiful.
+
+Urutugu ntirukura ngo rusumbe ijosi.
+: The shoulder cannot grow higher than the neck.
+
+Uruvuze umugore, ruvuga amahoro.
+: If you quarrel with a wife think of availability of matchet.
+
+Urwanda rugari ruba munda.
+: The extensive home is one’s heart.
+
+Uruhu ruca babiri.
+: It takes two to tear a skin.
+
+Urumiya rwamize inshuti.
+: A shilling destroyed a man.
+
+Urusha nyina w’ umwana imbabazi aba ashaka kumurya.
+: He who loves a child more than its mother, wants to eat it.
+
+Urose nabi, burinda bucya.
+: He who dreams badly, goes through the night with it.
+
+Umwiza si uwisize.
+: The beautiful is not the one who has used beauty creams.
+
+Umwanzi agucira icyobo, Imana igushakira icyanzu.
+: Your enemy will dig ditches for you, when God is preparing an exit for you.
+
+Umwana uzi ubwenge yumvira mu rusaku.
+: A clever child will understand things under whatever noise.
+
+Umusonga wundi ntukubuza gusinzira.
+: Another person’s pain, does not stop you from sleeping.
+
+
 
 
