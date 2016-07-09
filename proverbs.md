@@ -125,3 +125,78 @@ Udasize umwana asiga umugani
 
 Zimungira ukubiri aliko zigahuriza imbere
 : Beetles chew from either side, but always end up together inside. There is no point acting alone, when the aim is identical for all.
+
+Zirungwe, zibe isogo.
+:No matter how it is seasoned or embellished, it will still be grass.
+
+Zirara zishya, bwacya zikazima.
+: There is trouble and fighting in homes at night, but peace in the morning.
+
+Worosoye uwabyukaga.
+: You are prompting a willing performer.
+
+Witaba kare, ugatumwa kure.
+: You report early, and they will send you far.
+
+Wirukana umugabo kera, ukamumara ubwoba.
+: You chase a man too long and too often, and you make him brave.
+
+Wiringira ijosi rikakubyarira umwingo.
+: You trust your neck, but it is the one that brings you cancer.
+
+Wiga ingendo yundi ugatagataga.
+: If you imitate another person’s way of walking, you end up staggering.
+
+Winyereka inkongoro, nyereka uwayinyoye.
+: Don’t show me the milk container, show me who who drank the milk.
+
+Uwo mudaseka ntimuyage, ntukora ake.
+: The man you don’t laugh with, nor criticize others with, don’t touch anything of his.
+
+Uwo musangiye imfizi ntumuseka inkuku.
+: If we share a bull with someone, you cannot laugh at his cows.
+
+Uwo njya gusiga ndamurinda.
+: If I have to run faster than you, I have to wait for you.
+
+Uwo utuma aruta uwo utumira.
+: A friend is better than a guest.
+
+Uwububa abonwa n’uhagaze.
+: He who crawls is seen by one who is standing.
+
+Wambariza Imana ku ziko, ikagusiga ivu.
+: You pray god on the hearth, God will sprinkle the ashes over you.
+
+Wanga amahoro ukagura amaherere.
+: You refuse peace and you buy misfortunes.
+
+Uwitonze akama ishashi. 
+: A patient person will eventually milk the calf.
+
+Uwiyishe ntaririrwa.
+: You don’t cry for someone who has killed himself.
+
+Uwikaniriye umugisha w’ undi annya ibuye.
+: He who longs for another person’s luck will get more problems.
+
+Uwiba ahetse aaba abwiriza uwo mu mugongo.
+: If you steal with a child on your back, you are teaching him.
+
+Uwibwira aterwa inkunga.
+: He who tells himself what to do, is helped.
+
+Uwigize igitebo, ayora ivu.
+: If you convert yourself into a basket, you will carry rubbish.	
+
+Uwambaye ikirezi ntamenya ko cyera.
+: She who wears a necklace, does not know how white it is.
+
+Uwanze kuvugwa yaheze munda ya nyina.
+: He who does not want to be spoken about, was never born.
+
+Uturiye isoko siwe urivoma.
+The digger of the dwell is not the one who draws the water from it.
+
+
+
