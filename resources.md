@@ -15,7 +15,7 @@ navigation:
 : Wordsteps ni uburyo bugufasha kunguka amagambo mashya ukajya uyatwara ku gikoresho ngendanwa ku buryo wajya ushobora kuyiga aho ugiye hose.
 [IdiomSite](http://www.idiomsite.com/)
 : IdiomSite explains English idioms in plain language.
-: : IdiomSite ni urubuga rw’inshoberamahanga rusobanura inshoberamahanga mu buryo bwumvikana neza.
+: IdiomSite ni urubuga rw’inshoberamahanga rusobanura inshoberamahanga mu buryo bwumvikana neza.
 
 [Kigali Public Library](http://www.kplonline.org/)
 : Rwanda's first ever public library!
