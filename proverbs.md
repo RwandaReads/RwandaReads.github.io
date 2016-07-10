@@ -127,7 +127,7 @@ Zimungira ukubiri aliko zigahuriza imbere
 : Beetles chew from either side, but always end up together inside. There is no point acting alone, when the aim is identical for all.
 
 Zirungwe, zibe isogo.
-:No matter how it is seasoned or embellished, it will still be grass.
+: No matter how it is seasoned or embellished, it will still be grass.
 
 Zirara zishya, bwacya zikazima.
 : There is trouble and fighting in homes at night, but peace in the morning.
