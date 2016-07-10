@@ -183,12 +183,15 @@ Sijye wahera hahera umugani.
 # Quiz (ikizamini) {#quiz}
 
 1. What kind of business did Bakame and the Hyena start?
+
    Ni ubuhe bucuruzi Bakame na Warupyisi batangije?
 
 2. What are the 3 ways Bakame tricked the Hyena?
-  Ni ubuhe buryo 3 Bakame yahenzemo ubwenge Warupyisi?
+
+   Ni ubuhe buryo 3 Bakame yahenzemo ubwenge Warupyisi?
 
 3. Why was the Hyena afraid of Bakame at the end?
+
   Kuki byarangiye Warupyisi ifitiye ubwoba Bakame? 
 
 ----
@@ -199,9 +202,11 @@ Sijye wahera hahera umugani.
 2. He made the Hyena dig a pit to raise fish in.
    He made the Hyena make the Banana wine.
    He made the deer hide inside the Hyena's bag.
+
    Yatumye Warupyisi icukura icyuzi iyizeza ko amafi azizanamo. 
    Yategetse Warupyisi kwenga urwagwa. 
    Yashyize ingeragere mu ruhago rwa Warupyisi.
 
 3. The Hyena thought Bakame came back from the dead.
+
    Warupyisi yatekerezaga ko Bakame yazutse. 
