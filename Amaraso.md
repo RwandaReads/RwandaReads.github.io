@@ -80,17 +80,27 @@ Hashize iminsi ibiri, ruranga rutwara cya cyana cy'intare.
 # Quiz (ikizamini) {#quiz}
 
 1. What did the fox say to use as medicine?
-   (NEEDS TRANSLATION) What did the fox say to use as medicine?
+
+  Ingunzu yavuze ko umuti wakwifashishwa ari uwuhe?
+  
 2. What did the porcupine say to do?
-   (NEEDS TRANSLATION) What did the porcupine say to do?
+
+  Ikinyogote cyavuze ko hakorwa iki?
+  
 3. What happened to the cub in the end?
-   (NEEDS TRANSLATION) What happened to cub in the end?
+
+  Ese amaherezo icyana cy’intare byakigendekeye bite? 
 
 ----
 
 1. The fox said to use blood from the porcupine.
-   (NEEDS TRANSLATION) The fox said to use blood from the porcupine.
+
+  Ingunzu yavuze ko hakwifashishwa amaraso y’ikinyogote. 
+   
 2. The porcupine said that they also needed the brain of the fox.
-   (NEEDS TRANSLATION) The porcupine said that they also needed the brain of the fox.
+ 
+  Ikinyogote cyavuze ko hari hakenewe n’ubwonko bw’ingunzu.
+
 3. The cub died after two days.
-   (NEEDS TRANSLATION) The cub died after two days.
+
+  Icyana cy’intare nyuma y’iminsi ibiri cyarapfuye.
