@@ -294,6 +294,105 @@ Ukubita imbwa, aba ashaka shebuja.
 Ujya gutera ubwuzu arabwibanza.
 : Charity begins at home.
 
+Ugiye iburyasazi azimira nzima.
+: If you go to places they eat flies, you take them raw.
+
+Uhawe n’Imana ntiyamburwa n’umuyaga.
+: What is given by God, cannot be carried away by the wind.
+
+Uguhiga ubutwari, muratabarana.
+: If anyone thinks he is braver than you, invite him to war.
+
+Uciye munsi yarwo ntamenya ikirurimo.
+: If you pass a home without entering, you cannot know what is in there.
+
+Ubyaye ikiboze arakirigata.
+: If you deliver a rotten smelling baby, you will breast feed it.
+
+Uciye bugufi, ahinga itongo ry’inkuba.
+: If you are patient, you will cultivate a deserted home of the thunder.
+
+Ubwenge buke butiza urugi.
+: Little understanding lends a door, which you need to lock your own house.
+
+Ubwenge burarahurwa.
+: Wisdom is to be sought from the wise.
+
+Ubwira bw’inda bwamenywe n’inda.
+: The speed of the stomach, is known by the stomach.
+
+Ubuto buroshya ntibuherekeza.
+: The youth encourages you to act foolishly, but it will not accompany you.
+
+Ubuze uko agira agwa neza.
+: The weak will tolerate enemies.
+
+Ubupfu bwica nyirabwo.
+: Ignorance or incapacity kills the owner.
+
+Ubupfura buba munda.
+: Integrity comes from the stomach.
+
+Ubujya ejuru buhima ubworo.
+: Development however slow will stop your poverty.
+
+Uburere buruta ubuvuke.
+: The way one was brought up is better than one’s ancestry.
+
+Ubabaye niwe ubanda urugi.
+: He who needs exit is the one who opens the door.
+
+So ukwanga akwita nabi.
+: If your father dislikes you, he gives you a bad name.
+
+Ubara ijoro n’uwarigenze.
+: Night is best described by one who has travelled through it.
+
+Ubonye nyina ashaje agira ngo inka za se zapfuye ubusa.
+: He who sees his mother old, thinks his father’s cows went for nothing.
+
+Ubuhanga bubyibushya amatwi, bukananura ikibuno. 
+: If you seek knowledge open your ears and have little time to rest.
+
+Ubukana bw’imboga ntibwots imbehe.
+: Take your time, anxiety is not effective.
+
+Ubukya bukira buheza ikinyoma.
+: Time will prove the lie.
+
+Nyirururimi rubi atanga umurozi gupfa.
+: A man with bad language dies before a witch.
+
+Nzaguhemba ntiyishyuzwa.
+: A promise for a gift is not a debt, and so it cannot be demanded.
+
+Ruratinda ntiruhera.
+: Death may delay, but it will surely come.
+
+Sabukuru ntinywerwa umuti.
+: There is no remedy against age.
+
+Nzakarya ejo irahemura.
+: Consider other people’s necessities before keeping the surplus for tomorrow.
+
+Nyabarongo yica uyizaniye.
+: The river kills the one who goes to it.
+
+Nyamuza vuba, agwa mu mata nk’isazi.
+: If you hurry too much, you will fall into milk like a fly. Look before you leap.
+
+Nyiramugwaneza yakamye imbogo atayijishe.
+: The naïve lady tried to milk a dangerous cow before tying its legs.
+
+Ntawotsa inzu ngo ahishe umwotsi.
+: You don’t burn a house and hide the smoke.
+
+Ntihica umwami hica rubanda.
+: It is not the executor that kills, but the law.
+
+Ntugakangwe na ndisize, burya aba ari amasabano.
+: Don’t bother about those who say they are clean, it is often out of charity.
+
 
 
 
