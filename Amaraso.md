@@ -95,12 +95,12 @@ Hashize iminsi ibiri, ruranga rutwara cya cyana cy'intare.
 
 1. The fox said to use blood from the porcupine.
 
-  Ingunzu yavuze ko hakwifashishwa amaraso y’ikinyogote. 
-   
+Ingunzu yavuze ko hakwifashishwa amaraso y’ikinyogote.
+  
 2. The porcupine said that they also needed the brain of the fox.
  
-  Ikinyogote cyavuze ko hari hakenewe n’ubwonko bw’ingunzu.
+Ikinyogote cyavuze ko hari hakenewe n’ubwonko bw’ingunzu.
 
 3. The cub died after two days.
 
-  Icyana cy’intare nyuma y’iminsi ibiri cyarapfuye.
+Icyana cy’intare nyuma y’iminsi ibiri cyarapfuye.
