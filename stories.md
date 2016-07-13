@@ -18,4 +18,12 @@ navigation:
 
 # Intermediate Stories (Inkuru zigenewe abasomyi bo ku rwego rwo hagati)
 
+[Beauty (Bwiza)](Bwiza.html)
+: English description.
+: Kinyarwanda description.
+
+[The Brave Girl (Ndabaga)](Ndabaga.html)
+: English description.
+: Kinyarwanda description.
+
 # Advanced Stories (Inkuru z’abamaze kumenya gusoma neza)
