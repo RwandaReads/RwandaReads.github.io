@@ -15,6 +15,18 @@ navigation:
   link: "resources.html"
 ---
 
+Why is reading important for students? 
+
+- Reading improves the student’s language skills! This results in better skills in communication and expression, which is important for many areas of life as the student becomes an adult.
+
+- Reading leads to success at school! This is because when we practice it regularly, reading involves critical thinking and analysis. The mental growth that comes from reading can also help ignite creativity and imagination in students because they are exposed to a range of ideas.
+
+- Reading leads to success in life and the world! Reading opens the minds of students to other cultures in the world and their own. This influences them to have a worldview. 
+
+- Reading allows people to walk in other people's shoes and see things from other perspectives. This helps to build understanding of other people and develops the students as citizens. 
+
+These and other reasons are why we often say, “A reader today, a leader tomorrow!”
+
 # Contact Us (Tuvugishe) {#contact}
 
 If you need help, contact us at <YesRwandaReads@gmail.com>.
