@@ -1,36 +1,42 @@
 body {
-    max-width: 50ch;
-    line-height: 1.4;
-    margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #657b83 /* base00 */;
+  background-color: #fdf6e3 /* base3 */;
+  line-height: 1.4;
+  max-width: 60ch;
+  margin: auto;
 }
-header {
-    text-align: center;
+
+span:lang(rw), div:lang(rw) {
+    font-style: italic;
+    color: #93a1a1 /* base1 */;
 }
-nav ul,
-ul.stories {
+
+header, h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+a {
+  color: #268bd2 /* blue */;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #6c71c4 /* violet */;
+}
+
+nav ul li a {
+  display: block; /* Makes the whole region clickable */
+  padding: 0.25em;
+}
+
+nav ul li {
+  background: #eee8d5 /* base2 */;
+  border: thin solid #fdf6e3 /* base3 */;
+}
+
+nav ul, ul.stories {
     list-style-type: none;
     padding: 0;
-}
-nav ul li a {
-    display: block;
-    /* This makes the whole region (not just the text) clickable. */
-    
-    padding: 0.25em;
-}
-nav ul li:nth-child(odd) {
-    background: #EEE;
-}
-nav ul li:nth-child(even) {
-    background: #DDD;
-}
-a {
-    text-decoration: none;
-}
-/* Kinyarwanda words are italicized. */
-
-:lang(rw) {
-    font-style: italic;
-}
-.needs-translation {
-    color: red;
 }
