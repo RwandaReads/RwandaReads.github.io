@@ -26,4 +26,8 @@ navigation:
 : English description.
 : Kinyarwanda description.
 
-# Advanced Stories (Inkuru z’abamaze kumenya gusoma neza)
+# Advanced Story: Flatland (Add Kinyarwanda)
+
+[Flatland (Kinyarwanda)](Flatland.html)
+: English description
+: Kinyarwanda description
